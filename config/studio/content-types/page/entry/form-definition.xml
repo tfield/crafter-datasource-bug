@@ -321,54 +321,6 @@
 				</datasource>
 				<datasource>
 					<type>components</type>
-					<id>type1Items</id>
-					<title>Type1 Items</title>
-					<interface>item</interface>
-					<properties>
-						<property>
-							<name>allowEmbedded</name>
-							<value>true</value>
-								<type>boolean</type>
-						</property>
-						<property>
-							<name>allowShared</name>
-							<value>true</value>
-								<type>boolean</type>
-						</property>
-						<property>
-							<name>enableBrowse</name>
-							<value>true</value>
-								<type>boolean</type>
-						</property>
-						<property>
-							<name>enableSearch</name>
-							<value>false</value>
-								<type>boolean</type>
-						</property>
-						<property>
-							<name>baseRepoPath</name>
-							<value>/site/components</value>
-								<type>string</type>
-						</property>
-						<property>
-							<name>baseBrowsePath</name>
-							<value>/site/components</value>
-								<type>string</type>
-						</property>
-						<property>
-							<name>contentTypes</name>
-							<value>/component/faketype1</value>
-								<type>contentTypes</type>
-						</property>
-						<property>
-							<name>tags</name>
-							<value></value>
-								<type>string</type>
-						</property>
-					</properties>
-				</datasource>
-				<datasource>
-					<type>components</type>
 					<id>type2Items</id>
 					<title>Type 2 Items</title>
 					<interface>item</interface>

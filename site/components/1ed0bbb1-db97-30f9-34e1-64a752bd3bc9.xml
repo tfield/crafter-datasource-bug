@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/faketype1</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1ed0</objectGroupId>
+	<objectId>1ed0bbb1-db97-30f9-34e1-64a752bd3bc9</objectId>
+	<file-name>1ed0bbb1-db97-30f9-34e1-64a752bd3bc9.xml</file-name>
+	<folder-name/>
+	<internal-name>FI 1</internal-name>
+	<createdDate>2024-11-13T22:17:02.712Z</createdDate>
+	<createdDate_dt>2024-11-13T22:17:02.712Z</createdDate_dt>
+	<lastModifiedDate>2024-11-13T22:17:02.712Z</lastModifiedDate>
+	<lastModifiedDate_dt>2024-11-13T22:17:02.712Z</lastModifiedDate_dt>
+</component>
